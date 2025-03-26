@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|c:\\users\\mahdi\\desktop\\project-ap\\project-ap\\froms\\admin\\admincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|solutionrelative:project-ap\\froms\\admin\\admincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|c:\\users\\mahdi\\desktop\\project-ap\\project-ap\\froms\\admin\\controls\\admin2_storeequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|solutionrelative:project-ap\\froms\\admin\\controls\\admin2_storeequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|c:\\users\\mahdi\\desktop\\project-ap\\project-ap\\froms\\admin\\admincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|solutionrelative:project-ap\\froms\\admin\\admincore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|c:\\users\\mahdi\\desktop\\project-ap\\project-ap\\froms\\admin\\controls\\admin_rentals\\admin_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|solutionrelative:project-ap\\froms\\admin\\controls\\admin_rentals\\admin_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|c:\\users\\mahdi\\desktop\\project-ap\\project-ap\\froms\\admin\\controls\\admin_rentals\\admin_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D19391F-9BDB-4ECD-86EA-6A5975EA6177}|Project-AP\\Project-AP.csproj|solutionrelative:project-ap\\froms\\admin\\controls\\admin_rentals\\admin_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_Rentals.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "RelativeDocumentMoniker": "Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "ToolTip": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "RelativeToolTip": "Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:57:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin_Rentals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "RelativeDocumentMoniker": "Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs",
+              "ToolTip": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs [Design]",
+              "RelativeToolTip": "Project-AP\\Froms\\Admin\\Controls\\Admin_Rentals\\Admin_Rentals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:57:39.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminCore.cs",
+              "DocumentMoniker": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "RelativeDocumentMoniker": "Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "ToolTip": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "RelativeToolTip": "Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:54:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin2_StoreEquipment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin2_StoreEquipment.cs",
+              "RelativeDocumentMoniker": "Project-AP\\Froms\\Admin\\Controls\\Admin2_StoreEquipment.cs",
+              "ToolTip": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\Controls\\Admin2_StoreEquipment.cs [Design]",
+              "RelativeToolTip": "Project-AP\\Froms\\Admin\\Controls\\Admin2_StoreEquipment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:53:58.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminCore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "RelativeDocumentMoniker": "Project-AP\\Froms\\Admin\\AdminCore.cs",
+              "ToolTip": "C:\\Users\\Mahdi\\Desktop\\Project-AP\\Project-AP\\Froms\\Admin\\AdminCore.cs [Design]",
+              "RelativeToolTip": "Project-AP\\Froms\\Admin\\AdminCore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:53:49.747Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
