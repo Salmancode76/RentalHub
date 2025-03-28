@@ -76,5 +76,10 @@ namespace Project_AP.From.Admin.Controls
         {
             ShowPage("Dashboard");
         }
+
+        private void Core_Categories_Button_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -45,7 +45,7 @@
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(1258, 664);
+            pictureBox1.Size = new Size(1258, 673);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 21;
             pictureBox1.TabStop = false;
@@ -121,7 +121,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1258, 664);
+            ClientSize = new Size(1258, 673);
             Controls.Add(LogIn_Button);
             Controls.Add(label3);
             Controls.Add(label2);

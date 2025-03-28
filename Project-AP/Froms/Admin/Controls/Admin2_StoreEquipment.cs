@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Project_AP.Froms.Admin.Admin_popup_forms;
 
 namespace Project_AP.From.Admin.Controls
 {
@@ -34,7 +35,12 @@ namespace Project_AP.From.Admin.Controls
 
         private void S_E_AddNew_Button_Click(object sender, EventArgs e)
         {
-
+            this.Parent.Hide();
+            using (AddNewEquipmentFormPopup PopupForm = new AddNewEquipmentFormPopup())
+            {
+                PopupForm.ShowDialog();
+            }
+            this.Parent.Show();
         }
     }
 }

@@ -39,9 +39,9 @@
             // R_Requests
             // 
             R_Requests.BackColor = Color.DarkGray;
-            R_Requests.Location = new Point(115, 0);
+            R_Requests.Location = new Point(113, 3);
             R_Requests.Name = "R_Requests";
-            R_Requests.Size = new Size(268, 69);
+            R_Requests.Size = new Size(268, 60);
             R_Requests.TabIndex = 0;
             R_Requests.Text = "Rental Requests";
             R_Requests.UseVisualStyleBackColor = false;
@@ -50,9 +50,9 @@
             // R_RentalsTrack
             // 
             R_RentalsTrack.BackColor = Color.FromArgb(255, 192, 128);
-            R_RentalsTrack.Location = new Point(379, 0);
+            R_RentalsTrack.Location = new Point(377, 3);
             R_RentalsTrack.Name = "R_RentalsTrack";
-            R_RentalsTrack.Size = new Size(268, 69);
+            R_RentalsTrack.Size = new Size(268, 60);
             R_RentalsTrack.TabIndex = 1;
             R_RentalsTrack.Text = "Rentals Track";
             R_RentalsTrack.UseVisualStyleBackColor = false;
@@ -61,9 +61,9 @@
             // R_HistoryReport
             // 
             R_HistoryReport.BackColor = Color.Purple;
-            R_HistoryReport.Location = new Point(643, 0);
+            R_HistoryReport.Location = new Point(641, 3);
             R_HistoryReport.Name = "R_HistoryReport";
-            R_HistoryReport.Size = new Size(268, 69);
+            R_HistoryReport.Size = new Size(268, 60);
             R_HistoryReport.TabIndex = 2;
             R_HistoryReport.Text = "Rentals History";
             R_HistoryReport.UseVisualStyleBackColor = false;
@@ -71,7 +71,7 @@
             // 
             // rentals_HistoryReport1
             // 
-            rentals_HistoryReport1.BackColor = SystemColors.Highlight;
+            rentals_HistoryReport1.BackColor = Color.WhiteSmoke;
             rentals_HistoryReport1.Location = new Point(0, 66);
             rentals_HistoryReport1.Name = "rentals_HistoryReport1";
             rentals_HistoryReport1.Size = new Size(1001, 604);
@@ -79,15 +79,15 @@
             // 
             // rentals_Requests1
             // 
-            rentals_Requests1.BackColor = Color.Olive;
+            rentals_Requests1.BackColor = Color.WhiteSmoke;
             rentals_Requests1.Location = new Point(0, 66);
             rentals_Requests1.Name = "rentals_Requests1";
-            rentals_Requests1.Size = new Size(1001, 604);
+            rentals_Requests1.Size = new Size(1001, 613);
             rentals_Requests1.TabIndex = 4;
             // 
             // rentals_Tracking1
             // 
-            rentals_Tracking1.BackColor = Color.Blue;
+            rentals_Tracking1.BackColor = Color.WhiteSmoke;
             rentals_Tracking1.Location = new Point(0, 66);
             rentals_Tracking1.Name = "rentals_Tracking1";
             rentals_Tracking1.Size = new Size(1001, 604);

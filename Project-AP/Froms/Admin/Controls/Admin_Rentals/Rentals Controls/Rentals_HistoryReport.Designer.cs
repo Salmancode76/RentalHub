@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            button1.Location = new Point(335, 237);
+            button1.Location = new Point(381, 176);
             button1.Name = "button1";
-            button1.Size = new Size(266, 34);
+            button1.Size = new Size(266, 222);
             button1.TabIndex = 0;
             button1.Text = "Generate Report ?";
             button1.UseVisualStyleBackColor = true;

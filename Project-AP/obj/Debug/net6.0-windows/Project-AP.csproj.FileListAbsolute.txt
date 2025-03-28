@@ -23,3 +23,6 @@ C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP
 C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.From.Admin.Controls.AdminCore.resources
 C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.From.Admin.Controls.Admin_Rentals.Admin_Rentals.resources
 C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.From.Admin.Controls.Admin2_StoreEquipment.resources
+C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.Froms.Admin.Admin_popup_forms.AddNewEquipmentFormPopup.resources
+C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.Froms.Admin.Admin_popup_forms.ManageRentalFormPopup.resources
+C:\Users\Mahdi\Desktop\Project-AP\Project-AP\obj\Debug\net6.0-windows\Project_AP.Froms.Admin.Admin_popup_forms.AnaliseRentalRequestFormPopup.resources
